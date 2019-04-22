@@ -1,0 +1,101 @@
+/**index.wxss**/
+.content{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  font-family: 微软雅黑, 宋体;
+  padding: 20rpx 10rpx;
+  color: #252525;
+  font-size: 16px;
+  background-color: #F2F2F8;
+}
+
+.info{
+  margin-top: 30rpx;
+  width: 100%;
+  height:180px;
+}
+
+.city{
+  margin: 20rpx;
+  border-bottom: 1px solid #043567;
+}
+
+.temp{
+  font-size: 120rpx;
+  line-height: 130rpx;
+  text-align: center;
+  padding-top: 20rpx;
+  color: #043567;
+}
+
+.weather{
+  line-height: 22px;
+  margin: 6px 0;
+  padding: 0 10px;
+}
+
+.yesterday{
+  width: 93%;
+  padding: 20rpx;
+  margin-top: 50rpx;
+  border-radius: 10rpx;
+  border: 1px solid #043567;
+}
+
+.yesterday-title{
+  color: red;
+}
+
+.detail{
+  font-size: 10px;
+}
+
+.forecast{
+  width: 100%;
+  display: flex;
+  margin-top: 50rpx;
+  align-self: flex-end;
+}
+
+.next-day{
+  width: 19%;
+  height: 520rpx;
+  text-align: center;
+  line-height: 30px;
+  font-size: 14px;
+  margin: 0 4rpx;
+  border: 1px solid #043567;
+  border-radius: 10rpx;
+}
+
+.date{
+  margin-bottom: 20rpx;
+  border-bottom: 1px solid #043567;
+  color: #F29F39;
+}
+
+.search-area{
+  display: flex;
+  background: #F4F4F4;
+  padding: 1rem 0.5rem;
+}
+
+.search-area input{
+  width: 70%;
+  height: 38px;
+  line-height: 38px;
+  border:1px solid #ccc;
+  color: #000;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+.search-area button{
+  width: 30%;
+  height: 40px;
+  line-height: 40px;
+  margin-left: 5px;
+}
