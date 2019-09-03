@@ -5,6 +5,9 @@
 ## 小程序码
 ![Image text](https://github.com/yoona-lin/wx---/blob/master/微信小程序-微天气.jpg)
 
-## 小程序码
-![Image text](https://github.com/yoona-lin/wx---/blob/master/效果图.jpg)
+## 小程序效果图
+<p align="left">
+	<img src="https://github.com/yoona-lin/wx---/blob/master/效果图.jpg" alt="Sample"  width="300" height="100%">
+</p>
+
 
