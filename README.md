@@ -5,3 +5,6 @@
 ## 小程序码
 ![Image text](https://github.com/yoona-lin/wx---/blob/master/微信小程序-微天气.jpg)
 
+## 小程序码
+![Image text](https://github.com/yoona-lin/wx---/blob/master/效果图.jpg)
+
